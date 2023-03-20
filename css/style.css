@@ -1,0 +1,302 @@
+.top_notch ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 3px;
+
+}
+
+.top_notch ul li a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+
+    color: rgb(74, 72, 72);
+    font-size: 14px;
+}
+
+.top_notch ul li a:hover {
+    text-decoration: underline;
+}
+
+.search_br {
+    width: 200px;
+    max-width: 250px;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    border-radius: 60px;
+
+}
+
+.recommend {
+    font-family: Arial, Helvetica, sans-serif;
+
+    padding-top: 100px;
+    padding-left: 90px;
+    font-size: 40px;
+}
+
+.rec_img1 {
+    padding-top: 45px;
+    padding-left: 90px;
+    font-size: 25px;
+
+}
+
+.rec_img1_text {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 90px;
+    font-size: 25x;
+    margin: 20px;
+}
+
+.rec_img2 {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.phone_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-left: 125px;
+
+
+}
+
+.phones {
+    font-family: Arial;
+    font-size: 40px;
+
+}
+
+.f12oppo {
+    padding-bottom: 20px;
+    padding-left: 125px;
+
+}
+
+.phone_bar {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.reno7pro {
+    padding-top: 38px;
+    padding-left: 20px;
+
+}
+
+.reno7 {
+    padding-top: 38px;
+    padding-right: 90px;
+}
+
+.iot_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 100px;
+
+
+}
+
+.iot_ears {
+    padding-top: 22px;
+    padding-left: 10px;
+
+}
+
+.space {
+    padding-top: 100px;
+}
+
+.offer_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 115px;
+
+}
+
+.offer_welcome {
+    padding-left: 100px;
+
+
+}
+
+.offer_member {
+    padding-top: 22px;
+    padding-left: 10px;
+
+}
+
+.offer_points {
+    padding-top: 22px;
+    padding-right: 80px;
+
+}
+
+.explore_oppo_headline {
+    font-family: Arial, Helvetica, sans-serif;
+
+    padding-top: 100px;
+    padding-left: 120px;
+    font-size: 40px;
+}
+
+.about_oppo {
+    padding-left: 120px;
+
+
+}
+
+.accademy {
+    padding-top: 0px;
+    padding-left: 10px;
+
+}
+
+.newsroom {
+    padding-top: 22px;
+    padding-left: 10px;
+
+}
+
+.phone_foot_head {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.phone_foot_head2 {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.search_bar2 form {
+    width: 400px;
+
+    background-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    border-radius: 60px;
+
+
+}
+
+.phone_foot_search {
+
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.phone_foot_belw_search {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.footer_headlines {
+    text-align: center;
+}
+
+.footer_headlines ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.footer_headlines ul li :first-child {
+    padding-bottom: 10px;
+}
+
+.fotter ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+
+}
+
+.fot_ul li {
+    padding-bottom: 10px;
+}
+
+.fotter {
+    padding-right: 20px;
+}
+
+.fotter ul li a {
+    text-decoration: none;
+    color: rgb(192, 194, 195);
+    font-size: 12px;
+
+}
+
+.fot2_ul li {
+    padding: 5px;
+}
+
+.fot2_ul {
+    margin-bottom: 100%;
+}
+
+.fot3_ul li {
+    padding: 5px;
+}
+
+.fot3_ul {
+    margin-bottom: 335px;
+}
+
+.fot4_ul li {
+    padding: 5px;
+}
+
+.fot4_ul {
+    margin-bottom: 180px;
+}
+
+.fot5_ul li {
+    padding: 5px;
+}
+
+.fot5_ul {
+    margin-bottom: 200px;
+}
+
+.face {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+}
+.twit{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 8px;
+    
+}
+.you{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 8px;
+    
+}
+.insta{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 8px;
+    
+}
+
+.back{
+    text-decoration: none;
+    color: antiquewhite;
+   text-align: center;
+}
+
+
